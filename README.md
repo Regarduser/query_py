@@ -12,3 +12,6 @@ second hand in working condition
 second hand car with no scratches 
 second car at better situation 
 better second hand car
+old car
+old car at good condition 
+old vehicle 
