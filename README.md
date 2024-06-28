@@ -6,7 +6,7 @@ secondhand vehicle
 2nd hand car
 used car
 second car in good condition 
-best second hand car 
+best second hand car /
 renewed car
 second hand in working condition 
 second hand car with no scratches 
@@ -18,3 +18,7 @@ old vehicle
 second new car
 second hand modified car
 modified car 
+
+keyword tool
+answer public
+Google keyword planner
